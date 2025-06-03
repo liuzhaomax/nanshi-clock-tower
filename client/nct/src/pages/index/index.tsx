@@ -7,11 +7,7 @@ export default () => {
   return (
     <View className={styles.app}>
       <View className={styles.header}>
-        <Image
-          src={imgNct}
-          className={styles.logo}
-          alt="logo"
-        />
+        <Image src={imgNct} className={styles.logo} />
         <View className={styles.text}>
           南市中楼 <Text className={styles.path}>src/pages/index/index.js</Text>{' '}
           开始
