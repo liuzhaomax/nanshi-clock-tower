@@ -2,7 +2,7 @@
   "name": "nct",
   "private": true,
   "version": "1.0.0",
-  "description": "Remax Project With TypeScript",
+  "description": "Nanshi clock tower",
   "main": "index.js",
   "keywords": [],
   "author": "LIUZHAO <liuzhaomax@163.com>",
